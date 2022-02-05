@@ -6,7 +6,7 @@ def get_long_description() -> str:
 
 setup(
     name='metaflow_plugin_magicdir',
-    version='0.0.3',
+    version='0.0.4',
     description='Pass directories between metaflow steps.',
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
