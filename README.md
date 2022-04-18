@@ -1,3 +1,5 @@
+# ⚠️ This Repo Is Deprecated.  Please Go to [outerbounds/metaflow-magicdir](https://github.com/outerbounds/metaflow_magicdir) instead. ⚠️ 
+
 # Magic Directories
 
 An experimental plugin for passing data in directories in between steps.
